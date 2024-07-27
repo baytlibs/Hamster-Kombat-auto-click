@@ -1,17 +1,4 @@
-// ==UserScript==
-// @name         Hamster Kombat Autoclicker
-// @namespace    Violentmonkey Scripts
-// @match        *://*.hamsterkombat.io/*
-// @match        *://*.hamsterkombatgame.io/*
-// @exclude      https://hamsterkombatgame.io/games/UnblockPuzzle/*
-// @version      1.8
-// @description  20.07.2024
-// @grant        none
-// @icon         https://hamsterkombatgame.io/images/icons/hamster-coin.png
-// @downloadURL  https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Hamster-Kombat
-// ==/UserScript==
+
 
 (function() {
 	const styles = {
